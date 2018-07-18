@@ -36,6 +36,18 @@
             <scope>system</scope>
             <systemPath>${basedir}/src/lib/jacob.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>Plutext-Enterprise</groupId>
+            <artifactId>Plutext-Enterprise</artifactId>
+            <version>3.3.0.6</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/src/lib/Plutext-Enterprise-3.3.0.6.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.docx4j</groupId>
+            <artifactId>docx4j</artifactId>
+            <version>3.3.0</version>
+        </dependency>
     </dependencies>
 
 </project>
